@@ -1,0 +1,1 @@
+var e={init(){},page(e){},track(e,t){},identify(e,t){}};export{e as t};
